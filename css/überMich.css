@@ -1,0 +1,28 @@
+#uberMich{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+#bild{
+    height: 400px;
+    width: 400px;
+
+    max-height: 80vw;
+    max-width: 80vw;
+
+
+    display: flex;
+    justify-contend: center;
+    margin-left: 40px;
+    border:10px solid #013328;
+}
+
+#absatz{
+    background-color: white;
+    padding: 40px;
+    margin: 80px;
+    border:10px solid #013328;
+}
