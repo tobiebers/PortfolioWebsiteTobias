@@ -1,27 +1,28 @@
-nav{
-    display: flex;
-    justify-content: center;
-    align-content: center;
+/* Default styles */
+body {
+    font-size: 16px;
+}
+nav {
     font-size: 20px;
     background-color: #013328;
-    padding: 1%;
-}
-
-nav{
+    padding: 20px;
+    flex-wrap: wrap;
     margin-bottom: 50px;
     margin-top: 50px;
 }
-nav ul{
+nav ul {
     list-style: none;
     display: flex;
+    justify-content: center;
+    align-content: center;
     gap: 50px;
 }
-
-nav a{
+nav a {
     color: #E3DCD2;
     text-decoration: none;
 }
-
-nav a:hover{
-   color: black;
+nav a:hover {
+    color: black;
 }
+
+
