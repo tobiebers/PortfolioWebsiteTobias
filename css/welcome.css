@@ -7,10 +7,11 @@
 }
 
 .eins{
-    background-color: white;
+    background-color: #E3DCD2;
     width: 800px;
     padding: 5%;
     border:10px solid #013328;
+    font-size:20px;
 }
 
 .eins h1{

@@ -1,0 +1,40 @@
+#dienstleistungen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #E3DCD2;
+    margin-top: 150px;
+    background-color: #013328;
+}
+
+#dienst{
+    margin-top: 70px;
+    color: #100C0D;
+}
+
+.containerD{
+    background-color: #E3DCD2;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top:50px;
+    border:8px solid #013328;
+    font-size:20px;
+}
+
+.containerD h3{
+    font-size: 28px;
+}
+
+.containerD a{
+    color: black;
+    text-decoration: none;
+    background-color: #E3DCD2;
+    border:3px solid #013328;
+    border-radius: 15px;
+    padding:5px;
+    float: right;
+
+}

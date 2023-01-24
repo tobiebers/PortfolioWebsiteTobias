@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
+    font-size:20px;
 }
 
 
@@ -21,7 +22,7 @@
 }
 
 #absatz{
-    background-color: white;
+    background-color: #E3DCD2;
     padding: 40px;
     margin: 80px;
     margin-right: 250px;

@@ -1,0 +1,47 @@
+footer{
+    padding:70px;
+}
+
+footer h2{
+    font-size: 50px;
+    text-align: center;
+    color: #E3DCD2;
+    background-color: #013328;
+}
+
+.grid_container{
+    margin: 60px auto;
+    width: 1500px;
+    background: grey;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px;
+    gap: 15px;
+    grid-template-areas:
+    "item1 item1 item2 item3"
+    "item4 item5 item5 item3"
+}
+
+.grid_item{
+    background-color: #E3DCD2;
+}
+
+#item1{
+    grid-area: item1;
+}
+
+#item2{
+    grid-area: item2;
+}
+
+#item3{
+    grid-area: item3;
+}
+
+#item4{
+    grid-area: item4;
+}
+
+#item5{
+    grid-area: item5;
+}
