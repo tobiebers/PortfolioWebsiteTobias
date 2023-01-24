@@ -1,0 +1,38 @@
+#welcome{
+    display: flex;
+    justify-contend: center;
+    align-items: center;
+    gap: 100px;
+    margin-left: 150px;
+}
+
+.eins{
+    background-color: white;
+    width: 800px;
+    padding: 5%;
+    border:10px solid #013328;
+}
+
+.eins h1{
+    font-size:50px;
+}
+
+.circle{
+    height: 400px;
+    width: 400px;
+
+    max-height: 80vw;
+    max-width: 80vw;
+
+    overflow: hidden;
+    border-radius: 50%;
+    border:15px solid #013328;
+
+    display: flex;
+    justify-contend: center;
+
+}
+
+.circle img{
+    width: 100%;
+}

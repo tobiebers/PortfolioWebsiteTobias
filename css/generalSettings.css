@@ -1,0 +1,22 @@
+:root{
+    --main-color: #E3DCD2;
+    --primary-color: #CC8B65;
+    --secondary-color: #013328;
+    --text-color: white;
+    --text-color2: #100C0D;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    background-color: var(primary-color);
+    background-image: url(/img/pexels-cátia-matos-1072179.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
